@@ -38,8 +38,8 @@ Now with given data I analyzed the data set for each aforementioned question.Wit
 * Gmail- kartikgparashar786@gmail.com
 * Kaggle       - https://www.kaggle.com/kartikparashar 
 * Linkedin     - www.linkedin.com/in/kartik-parashar-90bb1a1a4
-* HackerRank   - https://www.hackerrank.com/Blu_Dragon
 * This Repo    - https://github.com/kartikparashar786/Olympics-Analysis
+* HackerRank   - https://www.hackerrank.com/Blu_Dragon
 * My other repo- https://github.com/kartikparashar786/Inventory-Management-System
 
 Made by-Kartik Parashar
