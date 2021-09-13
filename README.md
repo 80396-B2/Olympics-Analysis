@@ -23,14 +23,17 @@ The data set is present in the summer.csv file.It has the following attributes:-
   * Gender	
   * Event	
   * Medal
-
-
-
-
-
-
-
-
+# Description
+First things first reading the data with file handling.Then I imported all the required libraries.
+Now with given data I analyzed the data set for each aforementioned question.With the help of data visualization libraries I ploted output to give a better understanding of the data both visually and logically.You can find the analysis of olympics on the following 8 parameters-
+  * In how many cities Summer Olympics is held so far
+  * Which sport is have won most number of Gold Medals so far?(Top 5)
+  * Which sport is have won most number of medals so far?(Top 5)
+  * Which player has won most number of medals? (Top 5)
+  * Which player has won most number Gold Medals ? (Top 5)
+  * In which year India won it's first Gold Medal in Summer Olympics?
+  * Which event is most popular in terms on number of players? (Top 5)
+  * Which sport has most number of female Gold Medalists? (Top 5)
 # Links
 * Gmail- kartikgparashar786@gmail.com
 * Kaggle - https://www.kaggle.com/kartikparashar 
