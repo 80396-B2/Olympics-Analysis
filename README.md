@@ -12,7 +12,17 @@ The python libraries I used are:-
 * Pandas
 * Matplotlib
 * Seaborn
-
+# Data Set
+The data set is present in the summer.csv file.It has the following attributes:-
+  * Year	
+  * City	
+  * Sport	
+  * Discipline	
+  * Athlete	
+  * Country	
+  * Gender	
+  * Event	
+  * Medal
 
 
 
@@ -27,5 +37,6 @@ The python libraries I used are:-
 * Linkedin - www.linkedin.com/in/kartik-parashar-90bb1a1a4
 * HackerRank- https://www.hackerrank.com/Blu_Dragon
 * This Repo- https://github.com/kartikparashar786/Olympics-Analysis
+* My other repo- https://github.com/kartikparashar786/Inventory-Management-System
 
 Made by-Kartik Parashar
